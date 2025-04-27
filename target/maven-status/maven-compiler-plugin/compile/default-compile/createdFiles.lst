@@ -1,0 +1,5 @@
+com/kadir/productapi/ProductApiApplication.class
+com/kadir/productapi/service/ProductService.class
+com/kadir/productapi/repository/ProductRepository.class
+com/kadir/productapi/model/Product.class
+com/kadir/productapi/controller/ProductController.class

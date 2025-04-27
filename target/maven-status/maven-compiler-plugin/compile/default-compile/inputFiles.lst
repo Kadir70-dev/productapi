@@ -1,0 +1,5 @@
+/home/kadir70/Downloads/productapi/src/main/java/com/kadir/productapi/ProductApiApplication.java
+/home/kadir70/Downloads/productapi/src/main/java/com/kadir/productapi/model/Product.java
+/home/kadir70/Downloads/productapi/src/main/java/com/kadir/productapi/repository/ProductRepository.java
+/home/kadir70/Downloads/productapi/src/main/java/com/kadir/productapi/controller/ProductController.java
+/home/kadir70/Downloads/productapi/src/main/java/com/kadir/productapi/service/ProductService.java
